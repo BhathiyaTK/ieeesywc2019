@@ -11,16 +11,10 @@
 	    		<div class="ts-member">
 	                <div class="ts-member-image">
 	                    <img class="img-responsive" src="images/teams/bhathiya.jpg" alt="" />
-	                    <ul class="social-links">
-	                    	<li><a href="https://www.linkedin.com/in/bhathiya-kariyawasam-a77235142/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
-	                        <li><a href="https://www.facebook.com/bhathiya.tk" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-	                        <li><a href="mailto:bhathiyakariyawasam94@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a></li>
-	                    </ul>
 	                </div><!--Image end -->
 	                <div class="ts-member-info">
-	                    <h3 class="ts-member-name"><a href="#">Bhathiya Kariyawasam</a></h3>
-	                    <h5 class="ts-member-designation">Webmaster</h5>
-	                    <small>Sabaragamuwa University of Sri Lanka (SUSL)</small>
+	                    <h3 class="ts-member-name"><a href="#" data-toggle="modal" data-target="#bhathiya">Bhathiya Kariyawasam</a></h3>
+	                    <h5 class="ts-member-designation">Web Developer</h5>
 	                </div><!-- Info end -->
 	            </div><!-- member end -->
 	    	</div>

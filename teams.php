@@ -43,6 +43,9 @@
 	<link rel="shortcut icon" href="images/SLSYWC19Logo-Dark.png" type="image/x-icon">
 	<link rel="icon" href="images/SLSYWC19Logo-Dark.png" type="image/x-icon">
 
+	<!-- Google Fonts -->
+  	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet">
+
   	<!-- Bootstrap -->
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<!-- Template styles-->
@@ -103,9 +106,15 @@
          </div>
       </div><!-- Subpage title end -->
 	</div><!-- Page Banner end -->
-
 	<section id="team_section" class="main-container">
 		<div class="team_container">
+			<div class="year-links">
+				<a href="https://sywc.ieee.lk/archives/2019/team/">2019</a>
+				<a href="https://sywc.ieee.lk/archives/2018/team/" target="_black">2018</a>
+				<a href="#">2017</a>
+				<a href="#">2016</a>
+				<a href="#">2015</a>
+			</div>
 			<div class="teams_tabs">
 				<ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
 					<li class="nav-item">
@@ -182,11 +191,14 @@
                     <?php require_once 'process/team/photo.php';?>
                     <!-- TAB PANE TEN ENDS -->
 
+                    <!-- TAB PANE TEN BEGINS -->
+                    <?php require_once 'process/team/team_modals.php';?>
+                    <!-- TAB PANE TEN ENDS -->
+
 				</div>
 			</div>
 		</div>
 	</section>
-	<br><br><br>
 	<!-- FOOTER SECTION STARTS-->
 	<?php require_once 'process/common/headers/footer.php'?>
 	<!-- FOOTER SECTION ENDS -->

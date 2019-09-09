@@ -11,16 +11,10 @@
 	    		<div class="ts-member">
 	                <div class="ts-member-image">
 	                    <img class="img-responsive" src="images/teams/vinura.jpg" alt="" />
-	                    <ul class="social-links">
-	                        <li><a href="https://www.linkedin.com/in/vinura-udaraka/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
-	                        <li><a href="https://www.facebook.com/vinura.udaraka" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-	                        <li><a href="mailto:vinurawa@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a></li>
-	                    </ul>
 	                </div><!--Image end -->
 	                <div class="ts-member-info">
-	                    <h3 class="ts-member-name"><a href="#">Vinura Wickramasinghe</a></h3>
-	                    <h5 class="ts-member-designation">Member</h5>
-	                    <small>University of Moratuwa (UoM)</small>
+	                    <h3 class="ts-member-name"><a href="#" data-toggle="modal" data-target="#vinura">Vinura Wickramasinghe</a></h3>
+	                    <h5 class="ts-member-designation">Member - Photo & Video Committee</h5>
 	                </div><!-- Info end -->
 	            </div><!-- member end -->
 	    	</div>
@@ -28,16 +22,10 @@
 	    		<div class="ts-member">
 	                <div class="ts-member-image">
 	                    <img class="img-responsive" src="images/teams/randima.jpg" alt="" />
-	                    <ul class="social-links">
-	                        <li><a href="https://www.linkedin.com/in/janith-randima/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
-	                        <li><a href="https://www.facebook.com/janith.randimawijesingha" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-	                        <li><a href="mailto:j.randima0@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a></li>
-	                    </ul>
 	                </div><!--Image end -->
 	                <div class="ts-member-info">
-	                    <h3 class="ts-member-name"><a href="#">Janith Randima</a></h3>
-	                    <h5 class="ts-member-designation">Member</h5>
-	                    <small>University of Moratuwa (UoM)</small>
+	                    <h3 class="ts-member-name"><a href="#" data-toggle="modal" data-target="#randima">Janith Randima</a></h3>
+	                    <h5 class="ts-member-designation">Member - Photo & Video Committee</h5>
 	                </div><!-- Info end -->
 	            </div><!-- member end -->
 	    	</div>
@@ -45,16 +33,10 @@
 	    		<div class="ts-member">
 	                <div class="ts-member-image">
 	                    <img class="img-responsive" src="images/teams/ashani.jpg" alt="" />
-	                    <ul class="social-links">
-	                        <li><a href="https://www.linkedin.com/in/ashani-seneviratne-239b72177/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
-	                        <li><a href="https://www.facebook.com/ashani.seneviratne" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-	                        <li><a href="mailto:ashaniseneka@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a></li>
-	                    </ul>
 	                </div><!--Image end -->
 	                <div class="ts-member-info">
-	                    <h3 class="ts-member-name"><a href="#">Ashani Senevirathna</a></h3>
-	                    <h5 class="ts-member-designation">Member</h5>
-	                    <small>University of Peradeniya (UoP)</small>
+	                    <h3 class="ts-member-name"><a href="#" data-toggle="modal" data-target="#ashani">Ashani Senevirathna</a></h3>
+	                    <h5 class="ts-member-designation">Member - Photo & Video Committee</h5>
 	                </div><!-- Info end -->
 	            </div><!-- member end -->
 	    	</div>

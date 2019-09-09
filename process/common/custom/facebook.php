@@ -12,7 +12,7 @@
 <div class="fb-customerchat"
      attribution=setup_tool
      page_id="1531952543714674"
-     theme_color="#1d6738"
+     theme_color="#b9ce33"
      align="left"
      logged_in_greeting="Hello, ask us anything! We will assist you."
      logged_out_greeting="Hello, ask us anything! We will assist you.">

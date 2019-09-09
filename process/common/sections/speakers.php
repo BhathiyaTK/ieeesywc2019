@@ -1,5 +1,5 @@
 <!-- Speaker Section Start -->
-<section id="ts-speakers" class="ts-speakers bg-overlay">
+<section id="ts-speakers" class="ts-speakers">
     <div class="container">
         <div class="row speaker_titles">
             <h2 class="section_title">Speakers</h2>

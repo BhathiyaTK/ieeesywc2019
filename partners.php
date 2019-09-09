@@ -43,6 +43,9 @@
 	<link rel="shortcut icon" href="images/SLSYWC19Logo-Dark.png" type="image/x-icon">
 	<link rel="icon" href="images/SLSYWC19Logo-Dark.png" type="image/x-icon">
 
+	<!-- Google Fonts -->
+  	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet">
+
   	<!-- Bootstrap -->
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<!-- Template styles-->

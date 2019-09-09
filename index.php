@@ -41,10 +41,15 @@
 	<link rel="shortcut icon" href="images/SLSYWC19Logo-Dark.png" type="image/x-icon">
 	<link rel="icon" href="images/SLSYWC19Logo-Dark.png" type="image/x-icon">
 
+	<!-- Google Fonts -->
+  	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet">
+
 	<!-- CSS ================================================== -->
 
 	<!-- Bootstrap -->
 	<link rel="stylesheet" href="css/bootstrap.css">
+	<!-- Sponsor logo slider -->
+	<link rel="stylesheet" href="css/infinite-slider.css">
 	<!-- Template styles-->
 	<link rel="stylesheet" href="css/style.css">
 	<link rel="stylesheet" href="css/responsive.css">
@@ -64,6 +69,8 @@
 
   	<!-- JQuery Library -->
 	<script type="text/javascript" src="js/jquery-3.4.1.js"></script>
+	<!-- Slick -->
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
 	<!-- Countdown JQuery -->
 	<script type="text/javascript" src="js/jquery.jCounter-0.1.4.js"></script>
 	<!-- Bootstrap jQuery -->
@@ -89,6 +96,31 @@
 				timezone: "Asia/Colombo",
 			  	fallback: function() { console.log("count finished!") }
 			});
+
+			/* ----------------------------------------------------------- */
+			/* Sponsor slider 
+			/* ----------------------------------------------------------- */
+
+			$('.customer-logos').slick({
+			    slidesToShow: 4,
+			    slidesToScroll: 1,
+			    autoplay: true,
+			    autoplaySpeed: 1000,
+			    arrows: false,
+			    dots: false,
+			    pauseOnHover: true,
+			    responsive: [{
+			      	breakpoint: 768,
+			      	settings: {
+			        	slidesToShow: 4
+			      	}
+			    }, {
+			      	breakpoint: 520,
+			      	settings: {
+			        	slidesToShow: 1
+			      }
+			    }]
+	  		});
 		});
 		
 	</script>
@@ -120,11 +152,11 @@
 	<!-- GALLERY SECTION STARTS-->
 	<?php require_once 'process/common/sections/gallery.php'?>
 	<!-- GALLERY SECTION ENDS -->
-
+	<div class="container"><hr></div>
 	<!-- SPEAKERS SECTION STARTS-->
 	<?php require_once 'process/common/sections/speakers.php'?>
 	<!-- SPEAKERS SECTION ENDS -->
-
+	<div style=" background-color: #eee;"><div class="container"><hr style="margin: 0;"></div></div>
 	<!-- PARTNERS SECTION STARTS-->
 	<?php require_once 'process/common/sections/partners.php'?>
 	<!-- PARTNERS SECTION ENDS -->
@@ -138,7 +170,7 @@
 	<!-- NEWS SECTION ENDS -->
 
 	<!-- NEWSLETTER SECTION STARTS-->
-	<?php require_once 'process/common/sections/newsletter.php'?>
+	<?php #require_once 'process/common/sections/newsletter.php'?>
 	<!-- NEWSLETTER SECTION ENDS -->
 
 	<!-- VENUE SECTION STARTS-->

@@ -105,6 +105,6 @@
                     </a>
                 </div>
             </div><!-- Gallery item 12 end -->
-            </div><!-- Gallery end -->
+        </div><!-- Gallery end -->
     </div><!--/ Container end -->
 </section><!-- Gallery end -->

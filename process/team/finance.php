@@ -11,16 +11,10 @@
 	    		<div class="ts-member">
 	                <div class="ts-member-image">
 	                    <img class="img-responsive" src="images/teams/navod.jpg" alt="" />
-	                    <ul class="social-links">
-	                        <li><a href="https://www.linkedin.com/in/navod-kiriwaththuduwa-b72499153/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
-	                        <li><a href="https://www.facebook.com/navod.kiriwaththuduwa" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-	                        <li><a href="mailto:navodk@ieee.org" target="_blank"><i class="fa fa-envelope"></i></a></li>
-	                    </ul>
 	                </div><!--Image end -->
 	                <div class="ts-member-info">
-	                    <h3 class="ts-member-name"><a href="#">Navod Kiriwaththuduwa</a></h3>
-	                    <h5 class="ts-member-designation">Lead</h5>
-	                    <small>Sri Lanka Technological Campus (SLTC)</small>
+	                    <h3 class="ts-member-name"><a href="#" data-toggle="modal" data-target="#navod">Navod Kiriwaththuduwa</a></h3>
+	                    <h5 class="ts-member-designation">Lead - Finance Committee</h5>
 	                </div><!-- Info end -->
 	            </div><!-- member end -->
 	    	</div>
@@ -28,16 +22,10 @@
 	    		<div class="ts-member">
 	                <div class="ts-member-image">
 	                    <img class="img-responsive" src="images/teams/hashi.jpg" alt="" />
-	                    <ul class="social-links">
-	                        <li><a href="https://www.linkedin.com/in/hashi-ariyarathne-66798012b/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
-	                        <li><a href="https://www.facebook.com/hashi.ariyarathne" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-	                        <li><a href="mailto:hashiariyarathne@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a></li>
-	                    </ul>
 	                </div><!--Image end -->
 	                <div class="ts-member-info">
-	                    <h3 class="ts-member-name"><a href="#">Hashi Ariyarathne</a></h3>
-	                    <h5 class="ts-member-designation">Member</h5>
-	                    <small>National School of Business Management (NSBM)</small>
+	                    <h3 class="ts-member-name"><a href="#" data-toggle="modal" data-target="#hashi">Hashi Ariyarathne</a></h3>
+	                    <h5 class="ts-member-designation">Member - Finance Committee</h5>
 	                </div><!-- Info end -->
 	            </div><!-- member end -->
 	    	</div>
@@ -45,16 +33,10 @@
 	    		<div class="ts-member">
 	                <div class="ts-member-image">
 	                    <img class="img-responsive" src="images/teams/piumi.jpg" alt="" />
-	                    <ul class="social-links">
-	                    	<li><a href="https://www.linkedin.com/in/piumi-suraweera-064078170/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
-	                        <li><a href="https://www.facebook.com/piumi.suraweera.1" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-	                        <li><a href="mailto:piumisuraweera93@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a></li>
-	                    </ul>
 	                </div><!--Image end -->
 	                <div class="ts-member-info">
-	                    <h3 class="ts-member-name"><a href="#">Piumi Suraweera</a></h3>
-	                    <h5 class="ts-member-designation">Member</h5>
-	                    <small>Wayamba University of Sri Lanka (WUSL)</small>
+	                    <h3 class="ts-member-name"><a href="#" data-toggle="modal" data-target="#piumi">Piumi Suraweera</a></h3>
+	                    <h5 class="ts-member-designation">Member - Finance Committee</h5>
 	                </div><!-- Info end -->
 	            </div><!-- member end -->
 	    	</div>
@@ -62,16 +44,10 @@
 	    		<div class="ts-member">
 	                <div class="ts-member-image">
 	                    <img class="img-responsive" src="images/teams/sheril.jpg" alt="" />
-	                    <ul class="social-links">
-	                        <li><a href="https://www.linkedin.com/in/umith/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
-	                        <li><a href="https://www.facebook.com/sheril.nilanka" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-	                        <li><a href="mailto:sherilnilanka1@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a></li>
-	                    </ul>
 	                </div><!--Image end -->
 	                <div class="ts-member-info">
-	                    <h3 class="ts-member-name"><a href="#">Nilanka Wanigarathna</a></h3>
-	                    <h5 class="ts-member-designation">Member</h5>
-	                    <small>Open University of Sri Lanka (OUSL)</small>
+	                    <h3 class="ts-member-name"><a href="#" data-toggle="modal" data-target="#nilanka">Nilanka Wanigarathna</a></h3>
+	                    <h5 class="ts-member-designation">Member - Finance Committee</h5>
 	                </div><!-- Info end -->
 	            </div><!-- member end -->
 	    	</div>

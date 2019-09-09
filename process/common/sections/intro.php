@@ -2,11 +2,22 @@
 	<div class="container">
 		<div class="row intro_title">
 			<h2 class="section_title">Welcome to IEEE SLSYWC 2019</h2>
-			<p class="section_subtitle">Disrupting Technology for the Green World</p>
+			<p class="section_subtitle-top"><sup><i class="fas fa-quote-left"></i></sup> Disrupting Technology for the Green World <sup><i class="fas fa-quote-right"></i></sup></p>
 		</div>
 		<!-- Title row ends -->
 		<div class="title_divider"></div>
-		<div class="row">
+		<ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+			<li class="nav-item">
+			    <a class="nav-link active" id="pills-experience-tab" data-toggle="pill" href="#pills-experience" role="tab" aria-controls="pills-experience" aria-selected="true">New Experience <i class="fas fa-leaf fa-lg"></i></a>
+			</li>
+		  	<li class="nav-item">
+		    	<a class="nav-link" id="pills-networking-tab" data-toggle="pill" href="#pills-networking" role="tab" aria-controls="pills-networking" aria-selected="false">Networking <i class="fas fa-users fa-lg"></i></a>
+		  	</li>
+		  	<li class="nav-item">
+		    	<a class="nav-link" id="pills-fun-tab" data-toggle="pill" href="#pills-fun" role="tab" aria-controls="pills-fun" aria-selected="false">Fun &amp; Foods <i class="fas fa-coffee fa-lg"></i></a>
+		  	</li>
+		</ul>
+		<div class="row pill-contents">
 			<div class="col-sm-12 col-md-12 col-lg-6">
 				<div class="intro-video">
 					<img class="img-responsive" src="images/a7-1.jpg" alt="...">
@@ -19,17 +30,6 @@
 			</div>
 			<div class="col-sm-12 col-md-12 col-lg-6">
 				<div class="intro_tabs">
-					<ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
-						<li class="nav-item">
-						    <a class="nav-link active" id="pills-experience-tab" data-toggle="pill" href="#pills-experience" role="tab" aria-controls="pills-experience" aria-selected="true">New Experience</a>
-						</li>
-					  	<li class="nav-item">
-					    	<a class="nav-link" id="pills-networking-tab" data-toggle="pill" href="#pills-networking" role="tab" aria-controls="pills-networking" aria-selected="false">Networking</a>
-					  	</li>
-					  	<li class="nav-item">
-					    	<a class="nav-link" id="pills-fun-tab" data-toggle="pill" href="#pills-fun" role="tab" aria-controls="pills-fun" aria-selected="false">Fun &amp; Foods</a>
-					  	</li>
-					</ul>
 					<div class="tab-content" id="pills-tabContent">
 					  	<div class="tab-pane fade show active animated fadeIn" id="pills-experience" role="tabpanel" aria-labelledby="pills-experience-tab">
 					  		<h3 class="tab-content-title">Speeches - Project Sessions - Industry Leaders</h3>

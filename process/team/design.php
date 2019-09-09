@@ -11,16 +11,10 @@
 	    		<div class="ts-member">
 	                <div class="ts-member-image">
 	                    <img class="img-responsive" src="images/teams/pamudi.jpg" alt="" />
-	                    <ul class="social-links">
-	                        <li><a href="https://www.linkedin.com/in/pamudi/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
-	                        <li><a href="https://www.facebook.com/pamudi.dahanayaka" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-	                        <li><a href="mailto:pamudi.dahanayake@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a></li>
-	                    </ul>
 	                </div><!--Image end -->
 	                <div class="ts-member-info">
-	                    <h3 class="ts-member-name"><a href="#">Pamudi Dahanayake</a></h3>
-	                    <h5 class="ts-member-designation">Lead</h5>
-	                    <small>University of Colombo (UoC)</small>
+	                    <h3 class="ts-member-name"><a href="#" data-toggle="modal" data-target="#pamudi">Pamudi Dahanayake</a></h3>
+	                    <h5 class="ts-member-designation">Lead - Design Committee</h5>
 	                </div><!-- Info end -->
 	            </div><!-- member end -->
 	    	</div>
@@ -28,15 +22,10 @@
 	    		<div class="ts-member">
 	                <div class="ts-member-image">
 	                    <img class="img-responsive" src="images/teams/nuwan.jpg" alt="" />
-	                    <ul class="social-links">
-	                        <li><a href="https://www.facebook.com/nsa94" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-	                        <li><a href="mailto:nuwansalawatta@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a></li>
-	                    </ul>
 	                </div><!--Image end -->
 	                <div class="ts-member-info">
-	                    <h3 class="ts-member-name"><a href="#">Nuwan Sameera</a></h3>
-	                    <h5 class="ts-member-designation">Member</h5>
-	                    <small>University of Kelaniya (UoK)</small>
+	                    <h3 class="ts-member-name"><a href="#" data-toggle="modal" data-target="#nuwan">Nuwan Sameera</a></h3>
+	                    <h5 class="ts-member-designation">Member - Design Committee</h5>
 	                </div><!-- Info end -->
 	            </div><!-- member end -->
 	    	</div>
@@ -44,16 +33,10 @@
 	    		<div class="ts-member">
 	                <div class="ts-member-image">
 	                    <img class="img-responsive" src="images/teams/ruchira.jpg" alt="" />
-	                    <ul class="social-links">
-	                        <li><a href="https://www.linkedin.com/in/rucsacman/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
-	                        <li><a href="https://www.facebook.com/rucsac.man" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-	                        <li><a href="mailto:rucsacman@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a></li>
-	                    </ul>
 	                </div><!--Image end -->
 	                <div class="ts-member-info">
-	                    <h3 class="ts-member-name"><a href="#">Ruchira Manathunga</a></h3>
-	                    <h5 class="ts-member-designation">Member</h5>
-	                    <small>University of Jaffna (UoJ)</small>
+	                    <h3 class="ts-member-name"><a href="#" data-toggle="modal" data-target="#ruchira">Ruchira Manathunga</a></h3>
+	                    <h5 class="ts-member-designation">Member - Design Committee</h5>
 	                </div><!-- Info end -->
 	            </div><!-- member end -->
 	    	</div>
@@ -61,16 +44,10 @@
 	    		<div class="ts-member">
 	                <div class="ts-member-image">
 	                    <img class="img-responsive" src="images/teams/priyasad.jpg" alt="" />
-	                    <ul class="social-links">
-	                        <li><a href="https://www.linkedin.com/in/nayanajith-priyasad-a6002616b/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
-	                        <li><a href="https://www.facebook.com/nayane95" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-	                        <li><a href="mailto:nayanajithpriyasad@gmail.com" target="_blank"><i class="fa fa-envelope"></i></a></li>
-	                    </ul>
 	                </div><!--Image end -->
 	                <div class="ts-member-info">
-	                    <h3 class="ts-member-name"><a href="#">Nayanajith Priyasad</a></h3>
-	                    <h5 class="ts-member-designation">Member</h5>
-	                    <small>Sabaragamuwa University of Sri Lanka (SUSL)</small>
+	                    <h3 class="ts-member-name"><a href="#" data-toggle="modal" data-target="#priyasad">Nayanajith Priyasad</a></h3>
+	                    <h5 class="ts-member-designation">Member - Design Committee</h5>
 	                </div><!-- Info end -->
 	            </div><!-- member end -->
 	    	</div>
@@ -80,16 +57,10 @@
 	    		<div class="ts-member">
 	                <div class="ts-member-image">
 	                    <img class="img-responsive" src="images/teams/janith.jpg" alt="" />
-	                    <ul class="social-links">
-	                        <li><a href="https://www.linkedin.com/in/janith-bandara-362689169/" target="_blank"><i class="fab fa-linkedin-in"></i></a></li>
-	                        <li><a href="https://www.facebook.com/janith.chaturanga.14" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-	                        <li><a href="mailto:janith.chaturanga@ymail.com" target="_blank"><i class="fa fa-envelope"></i></a></li>
-	                    </ul>
 	                </div><!--Image end -->
 	                <div class="ts-member-info">
-	                    <h3 class="ts-member-name"><a href="#">Janith Bandara</a></h3>
+	                    <h3 class="ts-member-name"><a href="#" data-toggle="modal" data-target="#janith">Janith Bandara</a></h3>
 	                    <h5 class="ts-member-designation">Member - Design Committee</h5>
-	                    <small>Open University of Sri Lanka (OUSL)</small>
 	                </div><!-- Info end -->
 	            </div><!-- member end -->
 	    	</div>

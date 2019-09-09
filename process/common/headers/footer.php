@@ -1,6 +1,6 @@
 <!-- Footer start -->
 
-<footer id="footer" class="footer text-center">
+<footer id="footer" class="footer text-center bg-overlay">
     <div class="footer-pattern">
         <div class="container">
             <div class="row">
@@ -10,9 +10,8 @@
                         <ul>
                             <li><a href="https://www.facebook.com/IEEESL.SYWCongress/" target="_blank"><i class="fab fa-facebook-f fa-2x"></i></a></li>
                             <li><a href="https://twitter.com/IEEE_SLcongress" target="_blank"><i class="fab fa-twitter fa-2x"></i></a></li>
-                          <!--  <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-                            <li><a href="#"><i class="fa fa-linkedin"></i></a></li> -->
                             <li><a href="https://www.instagram.com/ieeeslsywc" target="_blank"><i class="fab fa-instagram fa-2x"></i></a></li>
+                            <li><a href="#" target="_blank"><i class="fas fa-rss fa-2x"></i></a></li>
     						
                         </ul>
                     </div><!-- Footer social end -->

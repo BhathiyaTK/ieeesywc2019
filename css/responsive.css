@@ -155,19 +155,22 @@
 		left: 0;
 	}
 	#index_slider .slide-title1{
-		font-size: 3.3em;
-	}
-	#index_slider .slide-title2{
 		font-size: 2.5em;
 	}
+	#index_slider .slide-title2{
+		font-size: 2em;
+	}
 	#index_slider #slider_img2_title1{
-		font-size: 3.3em;
+		font-size: 2.5em;
 	}
 	#index_slider .slide-sub-title{
-		font-size: 25px;
+		font-size: 21px;
+	}
+	.header-title-divider{
+		margin: 20px auto;
 	}
 	#index_slider .slider_btn1{
-		margin-left: 15px;
+		margin: 13px 20px;
 	}
 	#index_slider .slide-title2 span{
 		display: none;
@@ -188,6 +191,7 @@
 
 @media(max-width: 750px){
 	#count_down_section #countdown_title{
+		text-align: center;
 		font-size: 1.8em;
 	}
 	.counter-day, .counter-hour, .counter-minute, .counter-second{
@@ -199,16 +203,24 @@
 	.smalltext{
 		font-size: 1em;
 	}
+	#countdown_digits{
+		text-align: center;
+		padding: 0;
+	}
+	#count_down_section .countdown-container{
+		width: 90%;
+		margin: 0 auto;
+	}
 }
-@media(max-width: 1024px){
+@media(min-width: 1024px){
 	#count_down_section #countdown_title{
-		font-size: 1.5em;
+		font-size: 2em;
 	}
 	.counter-day, .counter-hour, .counter-minute, .counter-second{
-		margin: 10px 15px;
+		margin: 10px 35px;
 	}
 	.days, .hours, .minutes, .seconds{
-		font-size: 2em;
+		font-size: 3em;
 	}
 	.smalltext{
 		font-size: 1em;
@@ -220,6 +232,13 @@
 	.intro_title{
 		width: 90%;
 		margin: 0 auto;
+	}
+	#pills-tab{
+		width: 85%;
+		margin: 0 auto;
+	}
+	#pills-tab li{
+		margin: 5px auto;
 	}
 	.section_title{
 		font-size: 1.9em;
@@ -336,6 +355,12 @@
 	#ts-sponsors{
 		padding: 70px 30px;
 	}
+	#left-customers-gradient-div{
+		display: none;
+	}
+	#right-customers-gradient-div{
+		display: none;
+	}
 }
 @media(max-width: 1024px){
 	#ts-sponsors{
@@ -408,6 +433,32 @@
 	    line-height: 20px;
 	    background: #1d6738;
 	    border: 0 !important;
+	}
+}
+/*------------ Venue section content ----------*/
+@media(max-width: 750px){
+	#ts-venue{
+		width: 100%;
+		display: block;
+		overflow: hidden;
+	}
+	.venue-items{
+		position: relative;
+		width: 100%;
+	}
+	.venue-item-content{
+		padding: 80px 0;
+	}
+	#item1, #item3{
+		text-align: center;
+	}
+	#item2{
+		position: relative;
+		width: 100%;
+		left: 0;
+		text-align: center;
+		clip-path: none;
+		z-index: 1;
 	}
 }
 
@@ -526,6 +577,25 @@
 	}
 	.ts-member{
 		margin-bottom: 20px;
+	}
+	.year-links{
+		background: #fff;
+		text-align: center;
+		padding: 10px 0;
+		margin-bottom: 70px;
+		width: 100%;
+		height: 100%;
+	}
+	.year-links a{
+		font-family: Montserrat;
+		font-weight: 700;
+		font-size: 14px;
+		color: #fff;
+		background-color: #1d6738;
+		clip-path: polygon(100% 0%, 85% 50%, 100% 100%, 25% 100%, 8% 50%, 25% 0%);
+		padding: 11px 16px;
+		margin: 0;
+		transition: 0.3s;
 	}
 }
 @media(max-width: 1024px){
