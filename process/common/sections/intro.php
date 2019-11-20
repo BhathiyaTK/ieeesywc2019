@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="row intro_title">
 			<h2 class="section_title">Welcome to IEEE SLSYWC 2019</h2>
-			<p class="section_subtitle-top"><sup><i class="fas fa-quote-left"></i></sup> Disrupting Technology for the Green World <sup><i class="fas fa-quote-right"></i></sup></p>
+			<p class="section_subtitle-top"><sup><i class="fas fa-quote-left"></i></sup> Disruptive innovation for a Green Future <sup><i class="fas fa-quote-right"></i></sup></p>
 		</div>
 		<!-- Title row ends -->
 		<div class="title_divider"></div>
@@ -32,17 +32,18 @@
 				<div class="intro_tabs">
 					<div class="tab-content" id="pills-tabContent">
 					  	<div class="tab-pane fade show active animated fadeIn" id="pills-experience" role="tabpanel" aria-labelledby="pills-experience-tab">
-					  		<h3 class="tab-content-title">Speeches - Project Sessions - Industry Leaders</h3>
-                            <p class="sppb-cta-text">	Going beyond the technology this is the one of the major event for the IEEE’ans and Non IEEE’ans who are in the technical community and interested on IEEE, to have a blast with lot more experiences. 
+					  		<h3 class="tab-content-title">Speeches | Project Sessions | Industry Leaders</h3>
+                            <p class="sppb-cta-text">
+                            	Going beyond the technology, this is one of the significant events in Sri Lanka exclusively for the IEEE’ans and Non-IEEE’ans who are in the professional community with an interest in IEEE, to have a blast with a lot more experiences to cherish. 
                             </p>
-                            <blockquote>With the theme “Disrupting Technology for the Green World” of this year we are planning to come up with lot more new and amazing experiences. So,await for the most largest event of the IEEE Sri Lanka section.</blockquote>
+                            <blockquote>With the theme “Disruptive innovation for a Green Future” of this year we are coming up with a lot more new and amazing experiences. So, await for the most exceptional event of the IEEE Sri Lanka section!</blockquote>
 							 <p class="sppb-cta-text">
-							Exloper the official website to learn more and share this news among your friends.
+							Explore the official website to learn more and share this news among your friends.
 							</p>
 					  	</div>
 					  	<div class="tab-pane fade animated fadeIn" id="pills-networking" role="tabpanel" aria-labelledby="pills-networking-tab">
 					  		<h3 class="tab-content-title">Meet the Right People</h3>
-                            <p class="sppb-cta-text">IEEE SLSYW Congress this year is working in collaboration with IEEE Innovations Nations Sri Lanka. So this will be the most exciting IEEE congress so far. There will be be local and foreign delegates by allowing you the chance to integrate with  Students,Young Professionals and Women in Engineering all over the world. A friend is a blessing for a life. Take this marvelous opportunity to make friends and broad your network in IEEE community. Await for that!
+                            <p class="sppb-cta-text">IEEE SL SYW Congress this year is working in collaboration with IEEE Innovation Nation Sri Lanka 2019. So this is going to be the most exciting and inspiring IEEE SL SYW Congress so far. With  local and foreign delegates by allowing you the chance to integrate with Students, Young Professionals and Women in Engineering all over the world. A friend is a blessing for life. Take this fabulous opportunity to make friends and broaden your network in the IEEE community. Await for that!
                             </p>
                             <ul class="list-arrow">
                                 <li><i class="fas fa-chevron-right"></i> You can meet University friends</li>
@@ -53,7 +54,7 @@
 					  	</div>
 					  	<div class="tab-pane fade animated fadeIn" id="pills-fun" role="tabpanel" aria-labelledby="pills-fun-tab">
 					  		<h3 class="tab-content-title">Music, Fun and Food is Unlimited</h3>
-                            <p class="sppb-cta-text">No need of bother on foods for the three days, we are providing you with delicious foods and you just have to get the fun on the awesome activities are planning for you. Some of them are as follows:</p>
+                            <p class="sppb-cta-text">Unlimited music, fun, and food No need to bother on foods for the three days, we are providing you with delicious meals, and you have to get the fun on the awesome activities are planning for you. Some of them are as follows:</p>
                             <ul class="list-arrow">
                                 <li><i class="fas fa-chevron-right"></i> Outbound Sessions</li>
                                 <li><i class="fas fa-chevron-right"></i> Musical Programs</li>

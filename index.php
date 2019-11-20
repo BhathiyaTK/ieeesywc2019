@@ -7,16 +7,16 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
 	
-	<meta name="keywords" content="IEEESLSYWC18, IEEE Student YP WIE Congress Sri Lanka, Sri Lanka IEEE Congress, IEEE SL Section, IEEE ORG, IEEE, ieee.org, ieee.lk, Sri Lanka Section, Sri Lanka" >
-  	<meta name="description" content="The IEEE Sri Lanka Section, for the 7th consecutive year, is getting ready to present the Sri Lankan IEEE enthusiasts with yet another memorable episode of the Sri Lanka Section Students / Young Professional / Women in Engineering Congress for 2018." >
+	<meta name="keywords" content="IEEESLSYWC19, IEEE Student YP WIE Congress Sri Lanka, Sri Lanka IEEE Congress, IEEE SL Section, IEEE ORG, IEEE, ieee.org, ieee.lk, Sri Lanka Section, Sri Lanka" >
+  	<meta name="description" content="The IEEE Sri Lanka Section, for the 10th consecutive year, is getting ready to present the Sri Lankan IEEE enthusiasts with yet another memorable episode of the Sri Lanka Section Students / Young Professional / Women in Engineering Congress for 2019." >
 	
   	<meta name="msapplication-TileColor" content="#ffffff">
   	<meta name="msapplication-TileImage" content="">
   	<meta name="url" content="https://sywc.ieee.lk" />
-  	<meta name="owner" content="IEEE SLSYWC 2018" />
+  	<meta name="owner" content="IEEE SLSYWC 2019" />
   	<meta name="author" content="Bhathiya Kariyawasam - IEEE SLSYWC Dev Team" />
-  	<meta name="copyright" content="IEEE SLSYWC, 2018" />
-  	<meta name="creation_Date" content="12/08/2018" />
+  	<meta name="copyright" content="IEEE SLSYWC, 2019" />
+  	<meta name="creation_Date" content="30/09/2019" />
   	<meta name="robots" content="all" />
   	<meta name="robots" content="follow" />
   	<meta name="google-translate-customization" content="">
@@ -49,6 +49,8 @@
 	<!-- Bootstrap -->
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<!-- Sponsor logo slider -->
+	<link rel="stylesheet" href="css/slick.css">
+	<link rel="stylesheet" href="css/slick-theme.css">
 	<link rel="stylesheet" href="css/infinite-slider.css">
 	<!-- Template styles-->
 	<link rel="stylesheet" href="css/style.css">
@@ -70,7 +72,9 @@
   	<!-- JQuery Library -->
 	<script type="text/javascript" src="js/jquery-3.4.1.js"></script>
 	<!-- Slick -->
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.6.0/slick.js"></script>
+	<script  type="text/javascript" src="js/slick.js"></script>
+	<!-- Custom js -->
+	<script type="text/javascript" src="js/custom.js"></script>
 	<!-- Countdown JQuery -->
 	<script type="text/javascript" src="js/jquery.jCounter-0.1.4.js"></script>
 	<!-- Bootstrap jQuery -->
@@ -82,9 +86,6 @@
 	<!-- ColorBox -->
 	<script type="text/javascript" src="js/jquery.colorbox.js"></script>
 
-	<!-- Custom js -->
-	<script type="text/javascript" src="js/custom.js"></script>
-
 	<title>IEEE SYW CONGRESS 2019 | Sri Lanka Section</title>
 
 	<script>
@@ -92,35 +93,12 @@
 			$('.counter').counterUp();
 
 			$(".countdown").jCounter({
-				date: '28 December 2019 12:00:00',
+				date: '20 December 2019 00:00:00',
 				timezone: "Asia/Colombo",
 			  	fallback: function() { console.log("count finished!") }
 			});
 
-			/* ----------------------------------------------------------- */
-			/* Sponsor slider 
-			/* ----------------------------------------------------------- */
-
-			$('.customer-logos').slick({
-			    slidesToShow: 4,
-			    slidesToScroll: 1,
-			    autoplay: true,
-			    autoplaySpeed: 1000,
-			    arrows: false,
-			    dots: false,
-			    pauseOnHover: true,
-			    responsive: [{
-			      	breakpoint: 768,
-			      	settings: {
-			        	slidesToShow: 4
-			      	}
-			    }, {
-			      	breakpoint: 520,
-			      	settings: {
-			        	slidesToShow: 1
-			      }
-			    }]
-	  		});
+			
 		});
 		
 	</script>
@@ -152,11 +130,11 @@
 	<!-- GALLERY SECTION STARTS-->
 	<?php require_once 'process/common/sections/gallery.php'?>
 	<!-- GALLERY SECTION ENDS -->
-	<div class="container"><hr></div>
+	<!--<div class="container"><hr></div>-->
 	<!-- SPEAKERS SECTION STARTS-->
-	<?php require_once 'process/common/sections/speakers.php'?>
+	<?php # require_once 'process/common/sections/speakers.php'?>
 	<!-- SPEAKERS SECTION ENDS -->
-	<div style=" background-color: #eee;"><div class="container"><hr style="margin: 0;"></div></div>
+	<!--<div style=" background-color: #eee;"><div class="container"><hr style="margin: 0;"></div></div>-->
 	<!-- PARTNERS SECTION STARTS-->
 	<?php require_once 'process/common/sections/partners.php'?>
 	<!-- PARTNERS SECTION ENDS -->

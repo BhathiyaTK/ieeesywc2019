@@ -1,24 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<!-- Basic Page Needs
-	================================================== -->
+	<!-- Basic Page Needs ================================================== -->
 	<meta charset="utf-8">
-	<!-- Mobile Specific Metas
-	================================================== -->
+	<!-- Mobile Specific Metas ================================================== -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-
-	<meta name="keywords" content="IEEESLSYWC18, IEEE Student YP WIE Congress Sri Lanka, Sri Lanka IEEE Congress, IEEE SL Section, IEEE ORG, IEEE, ieee.org, ieee.lk, Sri Lanka Section, Sri Lanka" >
-  	<meta name="description" content="The IEEE Sri Lanka Section, for the 7th consecutive year, is getting ready to present the Sri Lankan IEEE enthusiasts with yet another memorable episode of the Sri Lanka Section Students / Young Professional / Women in Engineering Congress for 2018." >
+	
+	<meta name="keywords" content="IEEESLSYWC19, IEEE Student YP WIE Congress Sri Lanka, Sri Lanka IEEE Congress, IEEE SL Section, IEEE ORG, IEEE, ieee.org, ieee.lk, Sri Lanka Section, Sri Lanka" >
+  	<meta name="description" content="The IEEE Sri Lanka Section, for the 10th consecutive year, is getting ready to present the Sri Lankan IEEE enthusiasts with yet another memorable episode of the Sri Lanka Section Students / Young Professional / Women in Engineering Congress for 2019." >
 	
   	<meta name="msapplication-TileColor" content="#ffffff">
   	<meta name="msapplication-TileImage" content="">
   	<meta name="url" content="https://sywc.ieee.lk" />
-  	<meta name="owner" content="IEEE SLSYWC 2018" />
+  	<meta name="owner" content="IEEE SLSYWC 2019" />
   	<meta name="author" content="Bhathiya Kariyawasam - IEEE SLSYWC Dev Team" />
-  	<meta name="copyright" content="IEEE SLSYWC, 2018" />
-  	<meta name="creation_Date" content="12/08/2018" />
+  	<meta name="copyright" content="IEEE SLSYWC, 2019" />
+  	<meta name="creation_Date" content="30/09/2019" />
   	<meta name="robots" content="all" />
   	<meta name="robots" content="follow" />
   	<meta name="google-translate-customization" content="">
@@ -115,87 +113,89 @@
 				<a href="#">2016</a>
 				<a href="#">2015</a>
 			</div>
-			<div class="teams_tabs">
-				<ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
-					<li class="nav-item">
-					    <a class="nav-link active" id="pills-all-tab" data-toggle="pill" href="#pills-all" role="tab" aria-controls="pills-team" aria-selected="true">ALL</a>
-					</li>
-				  	<li class="nav-item">
-				    	<a class="nav-link" id="pills-executive-tab" data-toggle="pill" href="#pills-executive" role="tab" aria-controls="pills-team" aria-selected="false">Executive</a>
-				  	</li>
-				  	<li class="nav-item">
-				    	<a class="nav-link" id="pills-secretary-tab" data-toggle="pill" href="#pills-secretary" role="tab" aria-controls="pills-team" aria-selected="false">Secretariat</a>
-				  	</li>
-				  	<li class="nav-item">
-				    	<a class="nav-link" id="pills-program-tab" data-toggle="pill" href="#pills-program" role="tab" aria-controls="pills-team" aria-selected="false">Program</a>
-				  	</li>
-				  	<li class="nav-item">
-				    	<a class="nav-link" id="pills-finance-tab" data-toggle="pill" href="#pills-finance" role="tab" aria-controls="pills-team" aria-selected="false">Finance</a>
-				  	</li>
-				  	<li class="nav-item">
-				    	<a class="nav-link" id="pills-logistic-tab" data-toggle="pill" href="#pills-logistic" role="tab" aria-controls="pills-team" aria-selected="false">Logistic</a>
-				  	</li>
-				  	<li class="nav-item">
-				    	<a class="nav-link" id="pills-publicity-tab" data-toggle="pill" href="#pills-publicity" role="tab" aria-controls="pills-team" aria-selected="false">Publicity</a>
-				  	</li>
-				  	<li class="nav-item">
-				    	<a class="nav-link" id="pills-design-tab" data-toggle="pill" href="#pills-design" role="tab" aria-controls="pills-team" aria-selected="false">Design</a>
-				  	</li>
-				  	<li class="nav-item">
-				    	<a class="nav-link" id="pills-dev-tab" data-toggle="pill" href="#pills-dev" role="tab" aria-controls="pills-team" aria-selected="false">Development</a>
-				  	</li>
-				  	<li class="nav-item">
-				    	<a class="nav-link" id="pills-photo-tab" data-toggle="pill" href="#pills-photo" role="tab" aria-controls="pills-team" aria-selected="false">Photo & Video</a>
-				  	</li>
-				</ul>
-				<br><br>
-				<div class="tab-content" id="pills-tabContent">
-
-					<!-- TAB PANE ONE BEGINS -->
-                    <?php require_once 'process/team/all.php';?>
-                    <!-- TAB PANE ONE ENDS -->
-
-                    <!-- TAB PANE TWO BEGINS -->
-                    <?php require_once 'process/team/executive.php';?>
-                    <!-- TAB PANE TWO ENDS -->
-
-                    <!-- TAB PANE THREE BEGINS -->
-                    <?php require_once 'process/team/secretary.php';?>
-                    <!-- TAB PANE THREE ENDS -->
-
-                    <!-- TAB PANE FOUR BEGINS -->
-                    <?php require_once 'process/team/program.php';?>
-                    <!-- TAB PANE FOUR ENDS -->
-
-                    <!-- TAB PANE FIVE BEGINS -->
-                    <?php require_once 'process/team/finance.php';?>
-                    <!-- TAB PANE FIVE ENDS -->
-
-                    <!-- TAB PANE SIX BEGINS -->
-                    <?php require_once 'process/team/logistic.php';?>
-                    <!-- TAB PANE SIX ENDS -->
-
-                    <!-- TAB PANE SEVEN BEGINS -->
-                    <?php require_once 'process/team/publicity.php';?>
-                    <!-- TAB PANE SEVEN ENDS -->
-
-                    <!-- TAB PANE EIGHT BEGINS -->
-                    <?php require_once 'process/team/design.php';?>
-                    <!-- TAB PANE EIGHT ENDS -->
-
-                    <!-- TAB PANE NINE BEGINS -->
-                    <?php require_once 'process/team/dev.php';?>
-                    <!-- TAB PANE NINE ENDS -->
-
-                    <!-- TAB PANE TEN BEGINS -->
-                    <?php require_once 'process/team/photo.php';?>
-                    <!-- TAB PANE TEN ENDS -->
-
-                    <!-- TAB PANE TEN BEGINS -->
-                    <?php require_once 'process/team/team_modals.php';?>
-                    <!-- TAB PANE TEN ENDS -->
-
-				</div>
+			<div class="teams_tabs_content">
+			    <div class="teams_tabs">
+    				<ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+    					<li class="nav-item">
+    					    <a class="nav-link active" id="pills-all-tab" data-toggle="pill" href="#pills-all" role="tab" aria-controls="pills-team" aria-selected="true">ALL</a>
+    					</li>
+    				  	<li class="nav-item">
+    				    	<a class="nav-link" id="pills-executive-tab" data-toggle="pill" href="#pills-executive" role="tab" aria-controls="pills-team" aria-selected="false">Executive</a>
+    				  	</li>
+    				  	<li class="nav-item">
+    				    	<a class="nav-link" id="pills-secretary-tab" data-toggle="pill" href="#pills-secretary" role="tab" aria-controls="pills-team" aria-selected="false">Secretariat</a>
+    				  	</li>
+    				  	<li class="nav-item">
+    				    	<a class="nav-link" id="pills-program-tab" data-toggle="pill" href="#pills-program" role="tab" aria-controls="pills-team" aria-selected="false">Program</a>
+    				  	</li>
+    				  	<li class="nav-item">
+    				    	<a class="nav-link" id="pills-finance-tab" data-toggle="pill" href="#pills-finance" role="tab" aria-controls="pills-team" aria-selected="false">Finance</a>
+    				  	</li>
+    				  	<li class="nav-item">
+    				    	<a class="nav-link" id="pills-logistic-tab" data-toggle="pill" href="#pills-logistic" role="tab" aria-controls="pills-team" aria-selected="false">Logistic</a>
+    				  	</li>
+    				  	<li class="nav-item">
+    				    	<a class="nav-link" id="pills-publicity-tab" data-toggle="pill" href="#pills-publicity" role="tab" aria-controls="pills-team" aria-selected="false">Publicity</a>
+    				  	</li>
+    				  	<li class="nav-item">
+    				    	<a class="nav-link" id="pills-design-tab" data-toggle="pill" href="#pills-design" role="tab" aria-controls="pills-team" aria-selected="false">Design</a>
+    				  	</li>
+    				  	<li class="nav-item">
+    				    	<a class="nav-link" id="pills-dev-tab" data-toggle="pill" href="#pills-dev" role="tab" aria-controls="pills-team" aria-selected="false">Development</a>
+    				  	</li>
+    				  	<li class="nav-item">
+    				    	<a class="nav-link" id="pills-photo-tab" data-toggle="pill" href="#pills-photo" role="tab" aria-controls="pills-team" aria-selected="false">Photo & Video</a>
+    				  	</li>
+    				</ul>
+    				<br><br>
+    				<div class="tab-content" id="pills-tabContent">
+    
+    					<!-- TAB PANE ONE BEGINS -->
+                        <?php require_once 'process/team/all.php';?>
+                        <!-- TAB PANE ONE ENDS -->
+    
+                        <!-- TAB PANE TWO BEGINS -->
+                        <?php require_once 'process/team/executive.php';?>
+                        <!-- TAB PANE TWO ENDS -->
+    
+                        <!-- TAB PANE THREE BEGINS -->
+                        <?php require_once 'process/team/secretary.php';?>
+                        <!-- TAB PANE THREE ENDS -->
+    
+                        <!-- TAB PANE FOUR BEGINS -->
+                        <?php require_once 'process/team/program.php';?>
+                        <!-- TAB PANE FOUR ENDS -->
+    
+                        <!-- TAB PANE FIVE BEGINS -->
+                        <?php require_once 'process/team/finance.php';?>
+                        <!-- TAB PANE FIVE ENDS -->
+    
+                        <!-- TAB PANE SIX BEGINS -->
+                        <?php require_once 'process/team/logistic.php';?>
+                        <!-- TAB PANE SIX ENDS -->
+    
+                        <!-- TAB PANE SEVEN BEGINS -->
+                        <?php require_once 'process/team/publicity.php';?>
+                        <!-- TAB PANE SEVEN ENDS -->
+    
+                        <!-- TAB PANE EIGHT BEGINS -->
+                        <?php require_once 'process/team/design.php';?>
+                        <!-- TAB PANE EIGHT ENDS -->
+    
+                        <!-- TAB PANE NINE BEGINS -->
+                        <?php require_once 'process/team/dev.php';?>
+                        <!-- TAB PANE NINE ENDS -->
+    
+                        <!-- TAB PANE TEN BEGINS -->
+                        <?php require_once 'process/team/photo.php';?>
+                        <!-- TAB PANE TEN ENDS -->
+    
+                        <!-- TAB PANE TEN BEGINS -->
+                        <?php require_once 'process/team/team_modals.php';?>
+                        <!-- TAB PANE TEN ENDS -->
+    
+    				</div>
+    			</div>
 			</div>
 		</div>
 	</section>

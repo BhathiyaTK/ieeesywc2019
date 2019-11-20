@@ -1,3 +1,6 @@
+<div class="slider-png-img-div">
+  <img src="images/web-nelum-green-new.png" alt="Nelum Kuluna">
+</div>
 <div id="index_slider" class="carousel slide carousel-fade" data-ride="carousel">
   <ol class="carousel-indicators">
     <li data-target="#index_slider" data-slide-to="0" class="active"></li>
@@ -12,8 +15,9 @@
               <h2 class="slide-title1 animated5">IEEE STUDENT | YP | WIE CONGRESS</h2>
               <h2 class="slide-title2 animated5">SRI LANKA SECTION <span>|</span> 2019</h2>
               <div class="header-title-divider animated5"></div>
-              <h3 class="slide-sub-title animated5">Colombo, 28-30 December, 2019</h3>
-              <h3 class="slide-sub-title animated5">Carolina Beach Hotel</h3>
+              <h3 class="slide-sub-title animated5">Colombo, 20<sup>th</sup> - 22<sup>nd</sup> December, 2019</h3>
+              <!--<h3 class="slide-sub-title animated5">Carolina Beach Hotel</h3>-->
+              <h3 class="slide-sub-title animated5">Will be updated soon</h3>
               <p class="">
                 <a href="#" class="slider_btn btn btn-primary animated9" data-toggle="modal" data-target="#modalReg">Register Now</a>
               </p>
@@ -39,9 +43,9 @@
           <div class="col-md-12">
               <h2 class="slide-title1 animated5">Go Beyond with IEEE</h2>
               <div class="header-title-divider animated5"></div>
-              <h3 class="slide-sub-title animated5">It will be a great stage to show your talents and skills in front of the world</h3>
+              <h3 class="slide-sub-title animated5">The best stage to showcase your skills and talents to the whole world</h3>
               <p class="">
-                <a href="#" class="slider_btn btn btn-primary animated9">ieee awards night</a>
+                <a href="https://ieee.lk/awards/" target="_blank" class="slider_btn btn btn-primary animated9">ieee awards night</a>
                 <a href="registration" class="slider_btn1 btn btn-primary animated9">Register</a>
               </p>
           </div>
@@ -61,7 +65,7 @@
   <div class="countdown-container">
     <div class="row">
       <div class="col-md-5 col-sm-12" id="countdown_title">
-        Let's countdown to<br>IEEE SLSYWC '19!
+        Countdown to<br> IEEE SL SYWC 2019!
         <!-- <a href="" target="_blank"><h4><font color="#68b1ff"> #slsywc19</font></h4></a> -->
       </div>
       <div class="col-md-7 col-sm-12" id="countdown_digits">

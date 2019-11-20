@@ -4,7 +4,7 @@
 
 /* ---- navbar ------ */
 
-@media(max-width: 750px){
+@media(max-width: 650px){
 	nav{
 		height: 100px;
 		position: fixed;
@@ -12,7 +12,8 @@
 		background: transparent;
 	}
 	.navbar-brand{
-		width: 20%;
+		width: 17%;
+		-webkit-width: 17%;
 	}
 	.navbar-brand img{
 		width: 100%;
@@ -24,7 +25,8 @@
    		display: block;
 		position: absolute;
     	top: 0;
-    	right: 25px;
+    	right: 20px;
+    	-webkit-right: 20px !important;
     	margin-top: 28px;
     	background: #1d6738;
 	}
@@ -55,7 +57,7 @@
 		text-align: center;
 	}
 }
-@media(max-width: 1024px){
+@media(min-width:750px) and (max-width: 1024px){
 	nav{
 		height: 100px;
 		position: fixed;
@@ -63,7 +65,7 @@
 		background: transparent;
 	}
 	.navbar-brand{
-		width: 13%;
+		width: 15%;
 	}
 	.navbar-brand img{
 		width: 100%;
@@ -109,12 +111,20 @@
 
 /* ------- Slider content -------- */
 
-@media(max-width: 750px){
+@media(max-width: 650px){
+	#index_slider{
+		position: relative;
+		top: -100px;
+		width: 100%;
+		height: 100vh;
+	}
 	#index_slider .carousel-item img{
 		width: auto;
+		height: 105vh;
 	}
 	#index_slider .slider-content{
 		text-align: center;
+		top: 55%;
 		left: 0;
 	}
 	#index_slider .slide-title1{
@@ -129,8 +139,13 @@
 	#index_slider .slide-sub-title{
 		font-size: 20px;
 	}
+	.header-title-divider{
+		margin: 20px auto;
+	}
 	#index_slider .slider_btn1{
-		margin-left: 0;
+	    margin-top: 20px;
+		margin-left: 20px;
+		margin-right: 0;
 	}
 	#index_slider .slide-title2 span{
 		display: none;
@@ -145,10 +160,17 @@
 	.carousel-control-next{
 		margin-right: 10px;
 	}
+	.slider-png-img-div{
+		display: none;
+	}
 }
-@media(max-width: 1024px){
+@media(min-width:750px) and (max-width: 1024px){
+    #index_slider{
+        /*height: 100vh;*/
+    }
 	#index_slider .carousel-item img{
-		width: auto;
+		width: 100%;
+		/*height: 80vh;*/
 	}
 	#index_slider .slider-content{
 		text-align: center;
@@ -170,7 +192,9 @@
 		margin: 20px auto;
 	}
 	#index_slider .slider_btn1{
-		margin: 13px 20px;
+	    margin-top: 20px;
+		margin-left: 20px;
+		margin-right: 0;
 	}
 	#index_slider .slide-title2 span{
 		display: none;
@@ -185,11 +209,20 @@
 	.carousel-control-next{
 		margin-right: 10px;
 	}
+	.slider-png-img-div{
+		display: none;
+	}
 }
 
 /* ------- Countdown content -------- */
 
-@media(max-width: 750px){
+@media(max-width: 650px){
+	#count_down_section{
+		padding: 30px 0;
+		top: -70px;
+		width: 100%;
+		background: linear-gradient(125deg, rgba(29, 103, 56,0.9) 50%, rgba(185, 206, 51,0.9) 50%);
+	}
 	#count_down_section #countdown_title{
 		text-align: center;
 		font-size: 1.8em;
@@ -198,7 +231,7 @@
 		margin: 10px 15px;
 	}
 	.days, .hours, .minutes, .seconds{
-		font-size: 2em;
+		font-size: 2em !important;
 	}
 	.smalltext{
 		font-size: 1em;
@@ -212,15 +245,24 @@
 		margin: 0 auto;
 	}
 }
-@media(min-width: 1024px){
+@media(min-width:750px) and (max-width: 1024px){
+    #count_down_section{
+		padding: 30px 0;
+		top: -47px;
+		width: 100%;
+	}
+	#count_down_section .countdown-container{
+    	width: 85%;
+    	margin: 0 auto;
+    }
 	#count_down_section #countdown_title{
-		font-size: 2em;
+		font-size: 1.5em;
 	}
 	.counter-day, .counter-hour, .counter-minute, .counter-second{
-		margin: 10px 35px;
+		margin: 10px 20px;
 	}
 	.days, .hours, .minutes, .seconds{
-		font-size: 3em;
+		font-size: 2em;
 	}
 	.smalltext{
 		font-size: 1em;
@@ -228,7 +270,7 @@
 }
 /* ------- Intro content -------- */
 
-@media(max-width: 750px){
+@media(max-width: 650px){
 	.intro_title{
 		width: 90%;
 		margin: 0 auto;
@@ -245,6 +287,10 @@
 	}
 	.section_subtitle{
 		font-size: 1em;
+	}
+	.sppb-cta-text{
+	    text-align: justify;
+	    -webkit-text-align: justify !important;
 	}
 	.title_divider{
 		width: 15%;
@@ -263,16 +309,66 @@
 	.intro_tabs #pills-tab li a{
 		margin-top: 15px;
 	}
+	#pills-tab li #pills-experience-tab{
+    	background: linear-gradient(125deg, #0c132c 50%, #177496 50%);
+    	background-size: 147%;
+    	background-position: 0%;
+    	transition: all 0.3s ease;
+    	padding: 10px 11px 10px 21px;
+    }
+    #pills-tab li #pills-experience-tab i{
+    	margin-left: 45px;
+    	margin-right: 15px;
+    }
+}
+@media(min-width:750px) and (max-width: 1024px){
+    #pills-tab{
+		width: 90%;
+		margin: 0 auto;
+	}
+    #pills-tab{
+		text-align:center;
+	}
+    #pills-tab li{
+		margin: 5px 5px;
+	}
+	#pills-tab li a{
+    	color: #fff;
+    	background: linear-gradient(125deg, #0c132c 50%, #177496 50%);
+    	background-size: 140%;
+    	background-position: 5%;
+    	font-size: 14px;
+    	font-family: Open Sans;
+    	font-weight: 700;
+    	border-radius: 0;
+    	padding: 10px 10px 10px 20px;
+    	transition: all 0.3s ease;
+    }
+    #pills-tab li #pills-experience-tab{
+    	background: linear-gradient(125deg, #0c132c 50%, #177496 50%);
+    	background-size: 147%;
+    	background-position: 0%;
+    	transition: all 0.3s ease;
+    	padding: 10px 10px 10px 20px;
+    }
+    #pills-tab li a i{
+    	margin-left: 35px;
+    	margin-right: 10px;
+    }
 }
 
 /* ------- Facts content -------- */
 
-@media(max-width: 750px){
+@media(max-width: 650px){
 	.facts-area {
-	    padding: 70px 10px;
+	    padding: 70px 50px;
+	    text-align: center;
 	}
 	.facts-area .ts-facts{
-		margin-top: 10px;
+		/*margin-top: 10px;*/
+		text-align: center;
+		width: 50%;
+		margin 10px auto 0;
 	}
 	.ts-facts .ts-facts-icon {
 	    display: inline-block;
@@ -328,7 +424,7 @@
 
 /* ------- Speakers content -------- */
 
-@media(max-width: 750px){
+@media(max-width: 650px){
 	.speaker_row{
 		width: 90%;
 		margin: 0 auto;
@@ -336,6 +432,9 @@
 	.ts-speaker {
 	    height: auto;
 	    margin-bottom: 15px;
+	}
+	.modal-speaker-info .modal-speaker-name{
+	    margin-top: 15px;
 	}
 }
 @media(max-width: 1024px){
@@ -351,7 +450,7 @@
 
 /* -------- Sponsors ------ */
 
-@media(max-width: 750px){
+@media(max-width: 650px){
 	#ts-sponsors{
 		padding: 70px 30px;
 	}
@@ -373,7 +472,7 @@
 
 /* -------- Newslatter content --------- */
 
-@media(max-width: 750px){
+@media(max-width: 650px){
 	.newsletter-form {
 	    padding: 10px 20px;
 	}
@@ -436,7 +535,7 @@
 	}
 }
 /*------------ Venue section content ----------*/
-@media(max-width: 750px){
+@media(max-width: 650px){
 	#ts-venue{
 		width: 100%;
 		display: block;
@@ -445,6 +544,13 @@
 	.venue-items{
 		position: relative;
 		width: 100%;
+	}
+	.modal-header h1{
+		font-size: 27px;
+	}
+	.modal_slider_div{
+		width: 100%;
+		margin: 0 auto;
 	}
 	.venue-item-content{
 		padding: 80px 0;
@@ -464,7 +570,7 @@
 
 /* -------  About Page styles ----------- */
 
-@media(max-width: 750px){
+@media(max-width: 650px){
 	.venue-container{
 		width: 90%;
 		margin: 0 auto;
@@ -496,6 +602,51 @@
 		top: 40%;
 		left: 40%;
 	}
+	.timeline-div{
+		width: 25%;
+		margin: 0 auto 80px;
+		text-align: center;
+	}
+	.timeline-div-content{
+		display: block;
+	}
+	.timeline-div-content .year-div{
+		padding: 10px;
+		margin: 10px auto 10px;
+	}
+	.timeline-div-content .straght-line{
+		display: none;
+	}
+	.timeline-div-content .vertical-line{
+		display: block;
+		margin: 5px 50%;
+		height: 40px;
+		border-left: 3px solid #aaaa;
+	}
+}
+@media(min-width: 760px) and (max-width: 1024px){
+	.timeline-div{
+		width: 100%;
+		margin: 0 auto 80px;
+		text-align: center;
+	}
+	.timeline-div-content{
+		display: flex;
+	}
+	.timeline-div-content .year-div{
+		padding: 10px;
+		margin: 10px auto 10px;
+	}
+	.timeline-div-content .year-div img{
+		width: 45px;
+		height: 45px;
+	}
+	.timeline-div-content .vertical-line{
+		display: none;
+		margin: 5px 50%;
+		height: 40px;
+		border-left: 3px solid #aaaa;
+	}
 }
 @media(max-width: 1024px){
 	.more_about_venue_row .video-icon{
@@ -506,7 +657,7 @@
 
 /* ------- Schedule content -------- */
 
-@media(max-width: 750px){
+@media(max-width: 650px){
 	.schedule_tabs{
 		padding-left: 0px;
 	}
@@ -552,7 +703,7 @@
 
 /* ------ Partners Content ------- */
 
-@media(max-width: 750px){
+@media(max-width: 650px){
 	.partners_titles, .request_form{
 		width: 90%;
 		margin: 0 auto;
@@ -567,7 +718,7 @@
 
 /* -------- Teams Styles --------- */
 
-@media(max-width: 750px){
+@media(max-width: 600px){
 	.teams_tabs #pills-tab li a{
 		font-size: 12px;
 		letter-spacing: 0;
@@ -629,7 +780,20 @@
 		text-align: center;
 	}
 	.contact_form{
-		width: 90%;
+		width: 95%;
 		margin: 0 auto;
 	}
+}
+
+/* ------ Registration content -------- */
+
+@media(max-width: 650px){
+	.reg-form-content{
+        width: 90%;
+        margin: 0 auto;
+        border: 1px solid #ccc;
+        border-radius: 10px;
+        padding: 40px 40px 20px;
+        box-shadow: 0px 6px 14px 1px #ddd;
+    }
 }

@@ -1,3 +1,9 @@
+<?php
+
+require_once 'db/db_config.php';
+
+?>
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -40,11 +46,13 @@
   	<!--Favicon-->
 	<link rel="shortcut icon" href="images/SLSYWC19Logo-Dark.png" type="image/x-icon">
 	<link rel="icon" href="images/SLSYWC19Logo-Dark.png" type="image/x-icon">
-	
+
 	<!-- Google Fonts -->
   	<link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i|Montserrat:300,400,500,700" rel="stylesheet">
 
-  	<!-- Bootstrap -->
+	<!-- CSS ================================================== -->
+
+	<!-- Bootstrap -->
 	<link rel="stylesheet" href="css/bootstrap.css">
 	<!-- Template styles-->
 	<link rel="stylesheet" href="css/style.css">
@@ -61,10 +69,9 @@
 	<link href="https://fonts.googleapis.com/css?family=Roboto:400" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Roboto:700" rel="stylesheet">
 
-	<!-- Site Title -->
-	<title>ABOUT | IEEE SLSYWC 2019</title>
+	<!-- Javascript =========================================== -->
 
-	<!-- JQuery Library -->
+  	<!-- JQuery Library -->
 	<script type="text/javascript" src="js/jquery-3.4.1.js"></script>
 	<!-- Bootstrap jQuery -->
 	<script type="text/javascript" src="js/bootstrap.min.js"></script>
@@ -78,6 +85,8 @@
 	<!-- Custom js -->
 	<script type="text/javascript" src="js/custom.js"></script>
 
+	<title>IEEE SYW CONGRESS 2019 | Sri Lanka Section</title>
+
 	<script>
 		$(document).ready(function(){
 			$('.counter').counterUp();
@@ -90,40 +99,76 @@
 		$(window).on("load", function() {
 			$(".se-pre-con").fadeOut("slow");
 		});
+
+// 		$(document).ready(function(){
+// 			$("#year-div").hide();
+// 		});
+
+// 		$(function(){
+// 			$("#joined").click(function(){
+// 				var view = $("#joined").val();
+// 				if (view == "yes") {
+// 					$("#year-div").show();
+// 				}else{
+// 					$("#year-div").hide();
+// 				}
+// 			});
+// 		});
+
+		// $(function(){
+		// 	$(".register_form").on('submit',function(e3){
+		// 		e3.preventDefault();
+
+		// 		var name = $("#name").val();
+		// 		var gender = $("#gender").val();
+		// 		var nic = $("#nic").val();
+		// 		var uni = $("#uni").val();
+		// 		var faculty = $("#faculty").val();
+		// 		var academic = $("#academic").val();
+		// 		var email = $("#email").val();
+		// 		var phone = $("#phone").val();
+		// 		var tsize = $("#tsize").val();
+		// 		var food = $("#food").val();
+		// 		var os = $("#os").val();
+		// 		var member = $("#member").val();
+		// 		var mem_no = $("#mem-no").val();
+		// 		var syw = $("#syw").val();
+		// 		var joined = $("#joined").val();
+		// 		var year = $("#year").val();
+		// 		var exp = $("#exp").val();
+		// 		var track = $("#track").val();
+		// 		var message = $("#message").val();
+
+		// 		$.ajax({
+		// 			type: "POST",
+		// 			url: "process/form_process/reg.php",
+		// 			data: {name:name,gender:gender,nic:nic,uni:uni,faculty:faculty,academic:academic,email:email,phone:phone,tsize:tsize,food:food,os:os,member:member,mem_no:mem_no,syw:syw,joined:joined,year:year,exp:exp,track:track,message:message},
+		// 			success: function(data){
+		// 				$("#register-msg").html(data);
+		// 				$(".register_form")[0].reset();
+		// 				setTimeout(function(){$("#register-msg").fadeOut(300);}, 2000);
+		// 			}
+		// 		});
+		// 	});
+		// });
 	</script>
 
 	<!-- NAVBAR SECTION STARTS-->
-	<?php require_once 'process/common/headers/about_navbar.php'?>
+	<?php require_once 'process/common/headers/register_navbar.php' ?>
 	<!-- NAVBAR SECTION ENDS -->
 
-	<div id="page-banner-area" class="page-banner-area" style="background-image:url(images/banners/about.jpg)">
+	<div id="page-banner-area" class="page-banner-area" style="background-image:url(images/banners/registration.jpg);">
 		<!-- Subpage title start -->
 		<div class="page-banner-title">
         	<div class="text-center">
-	        	<h2>About</h2>
-         	</div>
+	        	<h2>Delegate Registration</h2>
+         </div>
       </div><!-- Subpage title end -->
 	</div><!-- Page Banner end -->
 
-	<!-- ABOUT CONGRESS SECTION STARTS-->
-    <?php require_once 'process/common/sections/about-congress.php'?>
-	<!--  ABOUT CONGRESS SECTION ENDS -->
-
-	<!-- FACTS SECTION STARTS-->
-	<?php require_once 'process/common/sections/facts.php'?>
-	<!-- FACTS SECTION ENDS -->
-
-	<!-- ABOUT TRACKS SECTION STARTS-->
-    <?php require_once 'process/common/sections/about-tracks.php'?>
-	<!--  ABOUT TRACKS SECTION ENDS -->
-
-	<!-- ABOUT VENUE SECTION STARTS-->
-    <?php require_once 'process/common/sections/about-venue.php'?>
-	<!--  ABOUT VENUE SECTION ENDS -->
-
-	<!-- CODE OF CONDUCT SECTION STARTS-->
-    <?php require_once 'process/common/sections/about-coc.php'?>
-	<!--  CODE OF CONDUCT SECTION ENDS -->
+	<!-- FOOTER SECTION STARTS-->
+	<?php require_once 'process/common/sections/reg-content.php'?>
+	<!-- FOOTER SECTION ENDS -->
 
 	<!-- FOOTER SECTION STARTS-->
 	<?php require_once 'process/common/headers/footer.php'?>
@@ -132,6 +177,7 @@
 	<!-- FACEBOOK PLUGIN SECTION STARTS-->
 	<?php require_once 'process/common/custom/facebook.php'?>
 	<!-- FACEBOOK PLUGIN SECTION ENDS -->
+
 </body>
 <div class="se-pre-con"></div>
 </html>

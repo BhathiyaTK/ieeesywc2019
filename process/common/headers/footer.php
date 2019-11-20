@@ -34,7 +34,7 @@
                         </ul>
                     </div><!-- Footer menu end -->
                     <div class="copyright-info">
-                        <span>Copyright © 2018 IEEE SLSYWC. All Rights Reserved. | Designed & Developed by <a href="https://www.linkedin.com/in/bhathiya-kariyawasam-a77235142/" target="_blank">BK</a>. | Team IEEE SLSYWC</span>
+                        <span>Copyright © 2018 IEEE SLSYWC. All Rights Reserved. | Designed & Developed by <a href="https://www.linkedin.com/in/bhathiyatk/" target="_blank">BK</a>. | Team IEEE SLSYWC</span>
                     </div><!-- Copyright info end -->
                 </div><!-- Content col end -->
             </div><!-- Content row end -->

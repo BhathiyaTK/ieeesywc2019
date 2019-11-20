@@ -19,10 +19,10 @@
                   proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </p>
                 <p class="modal-speaker-links">
-                  <a href="#"><i class="fab fa-linkedin-in fa-lg"></i></a>
-                  <a href="#"><i class="fab fa-facebook-f fa-lg"></i></a>
-                  <a href="#"><i class="fab fa-twitter fa-lg"></i></a>
-                  <a href="#"><i class="fab fa-instagram fa-lg"></i></a>
+                  <a href="#"><i id="linkedin" class="fab fa-linkedin-in fa-lg"></i></a>
+                  <a href="#"><i id="facebook" class="fab fa-facebook-f fa-lg"></i></a>
+                  <a href="#"><i id="twitter" class="fab fa-twitter fa-lg"></i></a>
+                  <a href="#"><i id="instagram" class="fab fa-instagram fa-lg"></i></a>
                 </p>
             </div>
           </div>
@@ -56,10 +56,10 @@
                   proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </p>
                 <p class="modal-speaker-links">
-                  <a href="#"><i class="fab fa-linkedin-in fa-lg"></i></a>
-                  <a href="#"><i class="fab fa-facebook-f fa-lg"></i></a>
-                  <a href="#"><i class="fab fa-twitter fa-lg"></i></a>
-                  <a href="#"><i class="fab fa-instagram fa-lg"></i></a>
+                  <a href="#"><i id="linkedin" class="fab fa-linkedin-in fa-lg"></i></a>
+                  <a href="#"><i id="facebook" class="fab fa-facebook-f fa-lg"></i></a>
+                  <a href="#"><i id="twitter" class="fab fa-twitter fa-lg"></i></a>
+                  <a href="#"><i id="instagram" class="fab fa-instagram fa-lg"></i></a>
                 </p>
             </div>
           </div>
@@ -93,10 +93,10 @@
                   proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </p>
                 <p class="modal-speaker-links">
-                  <a href="#"><i class="fab fa-linkedin-in fa-lg"></i></a>
-                  <a href="#"><i class="fab fa-facebook-f fa-lg"></i></a>
-                  <a href="#"><i class="fab fa-twitter fa-lg"></i></a>
-                  <a href="#"><i class="fab fa-instagram fa-lg"></i></a>
+                  <a href="#"><i id="linkedin" class="fab fa-linkedin-in fa-lg"></i></a>
+                  <a href="#"><i id="facebook" class="fab fa-facebook-f fa-lg"></i></a>
+                  <a href="#"><i id="twitter" class="fab fa-twitter fa-lg"></i></a>
+                  <a href="#"><i id="instagram" class="fab fa-instagram fa-lg"></i></a>
                 </p>
             </div>
           </div>
@@ -130,10 +130,10 @@
                   proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </p>
                 <p class="modal-speaker-links">
-                  <a href="#"><i class="fab fa-linkedin-in fa-lg"></i></a>
-                  <a href="#"><i class="fab fa-facebook-f fa-lg"></i></a>
-                  <a href="#"><i class="fab fa-twitter fa-lg"></i></a>
-                  <a href="#"><i class="fab fa-instagram fa-lg"></i></a>
+                  <a href="#"><i id="linkedin" class="fab fa-linkedin-in fa-lg"></i></a>
+                  <a href="#"><i id="facebook" class="fab fa-facebook-f fa-lg"></i></a>
+                  <a href="#"><i id="twitter" class="fab fa-twitter fa-lg"></i></a>
+                  <a href="#"><i id="instagram" class="fab fa-instagram fa-lg"></i></a>
                 </p>
             </div>
           </div>
@@ -167,10 +167,10 @@
                   proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </p>
                 <p class="modal-speaker-links">
-                  <a href="#"><i class="fab fa-linkedin-in fa-lg"></i></a>
-                  <a href="#"><i class="fab fa-facebook-f fa-lg"></i></a>
-                  <a href="#"><i class="fab fa-twitter fa-lg"></i></a>
-                  <a href="#"><i class="fab fa-instagram fa-lg"></i></a>
+                  <a href="#"><i id="linkedin" class="fab fa-linkedin-in fa-lg"></i></a>
+                  <a href="#"><i id="facebook" class="fab fa-facebook-f fa-lg"></i></a>
+                  <a href="#"><i id="twitter" class="fab fa-twitter fa-lg"></i></a>
+                  <a href="#"><i id="instagram" class="fab fa-instagram fa-lg"></i></a>
                 </p>
             </div>
           </div>
@@ -204,10 +204,10 @@
                   proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </p>
                 <p class="modal-speaker-links">
-                  <a href="#"><i class="fab fa-linkedin-in fa-lg"></i></a>
-                  <a href="#"><i class="fab fa-facebook-f fa-lg"></i></a>
-                  <a href="#"><i class="fab fa-twitter fa-lg"></i></a>
-                  <a href="#"><i class="fab fa-instagram fa-lg"></i></a>
+                  <a href="#"><i id="linkedin" class="fab fa-linkedin-in fa-lg"></i></a>
+                  <a href="#"><i id="facebook" class="fab fa-facebook-f fa-lg"></i></a>
+                  <a href="#"><i id="twitter" class="fab fa-twitter fa-lg"></i></a>
+                  <a href="#"><i id="instagram" class="fab fa-instagram fa-lg"></i></a>
                 </p>
             </div>
           </div>
@@ -241,10 +241,10 @@
                   proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </p>
                 <p class="modal-speaker-links">
-                  <a href="#"><i class="fab fa-linkedin-in fa-lg"></i></a>
-                  <a href="#"><i class="fab fa-facebook-f fa-lg"></i></a>
-                  <a href="#"><i class="fab fa-twitter fa-lg"></i></a>
-                  <a href="#"><i class="fab fa-instagram fa-lg"></i></a>
+                  <a href="#"><i id="linkedin" class="fab fa-linkedin-in fa-lg"></i></a>
+                  <a href="#"><i id="facebook" class="fab fa-facebook-f fa-lg"></i></a>
+                  <a href="#"><i id="twitter" class="fab fa-twitter fa-lg"></i></a>
+                  <a href="#"><i id="instagram" class="fab fa-instagram fa-lg"></i></a>
                 </p>
             </div>
           </div>
@@ -278,10 +278,10 @@
                   proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
                 </p>
                 <p class="modal-speaker-links">
-                  <a href="#"><i class="fab fa-linkedin-in fa-lg"></i></a>
-                  <a href="#"><i class="fab fa-facebook-f fa-lg"></i></a>
-                  <a href="#"><i class="fab fa-twitter fa-lg"></i></a>
-                  <a href="#"><i class="fab fa-instagram fa-lg"></i></a>
+                  <a href="#"><i id="linkedin" class="fab fa-linkedin-in fa-lg"></i></a>
+                  <a href="#"><i id="facebook" class="fab fa-facebook-f fa-lg"></i></a>
+                  <a href="#"><i id="twitter" class="fab fa-twitter fa-lg"></i></a>
+                  <a href="#"><i id="instagram" class="fab fa-instagram fa-lg"></i></a>
                 </p>
             </div>
           </div>
@@ -302,7 +302,7 @@
     <div class="modal-content">
       <div class="modal-body">
         <div class="modal-speaker-info">
-            <p class="modal-speaker-designation"><center><h4 style="font-family: Roboto;"><b>Registration will open soon...</b></h4></center></p>
+            <p class="modal-speaker-designation"><center><h4 style="font-family: Roboto;"><b>Registration was temporarily closed due to server maintenance.</b></h4><h5 style="font-family: Roboto; margin-top: 20px;">We will open the registration as soon as possible.</h5></center></p>
         </div>
       </div>
       <div class="modal-footer">

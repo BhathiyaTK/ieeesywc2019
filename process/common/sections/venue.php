@@ -14,7 +14,7 @@
     <div class="venue-items" id="item3">
         <div class="venue-item-content">
             <div class="venue_container">
-               <h4 class="venue-info-title"><a href="#" data-toggle="modal" data-target="#accommodation">Accommodations</a></h4> 
+               <h4 class="venue-info-title"><a href="#" data-toggle="modal" data-target="#accommodation">Accommodation</a></h4> 
             </div>
         </div>
     </div>
@@ -24,35 +24,46 @@
 <div class="modal fade" tabindex="-1" role="dialog" id="location">
   <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
     <div class="modal-content" style="background-color: rgba(12, 19, 44, 0.9);">
+        <div class="modal-header">
+            <h1>Location</h1>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+      </div>
       <div class="modal-body vanue_modal_body">
-        <h1>Location</h1>
-        <br>
+        <!--<h1>Location</h1>-->
+        <!--<button type="button" class="close" data-dismiss="modal" aria-label="Close">-->
+        <!--  <span aria-hidden="true">&times;</span>-->
+        <!--</button>-->
+        <!--<br>-->
         <div class="modal_slider_div">
-            <div id="location_carousel" class="carousel slide carousel-fade" data-ride="carousel">
-                <ol class="carousel-indicators">
-                    <li data-target="#location_carousel" data-slide-to="0" class="active"></li>
-                    <li data-target="#location_carousel" data-slide-to="1"></li>
-                    <li data-target="#location_carousel" data-slide-to="2"></li>
-                </ol>
-                <div class="carousel-inner">
-                    <div class="carousel-item active">
-                      <img src="images/location3.jpg" class="d-block w-100" alt="...">
-                    </div>
-                    <div class="carousel-item">
-                      <img src="images/location2.jpg" class="d-block w-100" alt="...">
-                    </div>
-                    <div class="carousel-item">
-                      <img src="images/location1.jpg" class="d-block w-100" alt="...">
-                    </div>
-                </div>
-            </div>
+            <!--<div id="location_carousel" class="carousel slide carousel-fade" data-ride="carousel">-->
+            <!--    <ol class="carousel-indicators">-->
+            <!--        <li data-target="#location_carousel" data-slide-to="0" class="active"></li>-->
+            <!--        <li data-target="#location_carousel" data-slide-to="1"></li>-->
+            <!--        <li data-target="#location_carousel" data-slide-to="2"></li>-->
+            <!--    </ol>-->
+            <!--    <div class="carousel-inner">-->
+            <!--        <div class="carousel-item active">-->
+            <!--          <img src="images/location3.jpg" class="d-block w-100" alt="...">-->
+            <!--        </div>-->
+            <!--        <div class="carousel-item">-->
+            <!--          <img src="images/location2.jpg" class="d-block w-100" alt="...">-->
+            <!--        </div>-->
+            <!--        <div class="carousel-item">-->
+            <!--          <img src="images/location1.jpg" class="d-block w-100" alt="...">-->
+            <!--        </div>-->
+            <!--    </div>-->
+            <!--</div>-->
         </div>
         <br>
-        <p>This year congress to be held in Carolina Beach Hotel which is located in Chilaw, Sri Lanka.</p>
+        <p><h4>Location will be updated soon...</h4></p>
+        <!--<p>This year, the Congress will be held at Carolina Beach Hotel, one of the most exotic places in Sri Lanka.</p>-->
+        <br>
       </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-      </div>
+      <!--<div class="modal-footer">-->
+      <!--  <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>-->
+      <!--</div>-->
     </div>
   </div>
 </div>
@@ -61,9 +72,18 @@
 <div class="modal fade" tabindex="-1" role="dialog" id="transportation">
   <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
     <div class="modal-content" style="background-color: rgba(12, 19, 44, 0.9);">
+        <div class="modal-header">
+            <h1>Transportation</h1>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+      </div>
       <div class="modal-body vanue_modal_body">
-        <h1>Transportation</h1>
-        <br>
+        <!--<h1>Transportation</h1>-->
+        <!--<button type="button" class="close" data-dismiss="modal" aria-label="Close">-->
+        <!--  <span aria-hidden="true">&times;</span>-->
+        <!--</button>-->
+        <!--<br>-->
         <div class="modal_slider_div">
             <div id="transport_carousel" class="carousel slide carousel-fade" data-ride="carousel">
                 <ol class="carousel-indicators">
@@ -81,11 +101,12 @@
             </div>
         </div>
         <br>
-        <p>All transport during the congress proceedings will be provided to different locations by the team. Arrival and Departure transport is not provided.</p>
+        <p>All transportation during the Congress will be provided by the team, expect for the arrival and departure.</p>
+        <br>
       </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-      </div>
+      <!--<div class="modal-footer">-->
+      <!--  <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>-->
+      <!--</div>-->
     </div>
   </div>
 </div>
@@ -93,10 +114,19 @@
 <!-- accommodation modal -->
 <div class="modal fade" tabindex="-1" role="dialog" id="accommodation">
   <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
-    <div class="modal-content" style="background-color: rgba(12, 19, 44, 0.9);">
+    <div class="modal-content" style="background-color: rgba(12, 19, 44, 0.9);"> 
+        <div class="modal-header">
+            <h1>Accommodation</h1>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+      </div>
       <div class="modal-body vanue_modal_body">
-        <h1>Accommodation</h1>
-        <br>
+        <!--<h1>Accommodation</h1>-->
+        <!--<button type="button" class="close" data-dismiss="modal" aria-label="Close">-->
+        <!--  <span aria-hidden="true">&times;</span>-->
+        <!--</button>-->
+        <!--<br>-->
         <div class="modal_slider_div">
             <div id="acco_carousel" class="carousel slide carousel-fade" data-ride="carousel">
                 <ol class="carousel-indicators">
@@ -118,11 +148,12 @@
             </div>
         </div>
         <br>
-        <p>Accomodations will be provided at the venue on sharing basis. You don't want to worry to find places to stay over the 03 days.</p>
+        <p>Accomodations will be provided at the venue on sharing basis. You don't have to worry about finding a cosy place to stay for all three days.</p>
+        <br>
       </div>
-      <div class="modal-footer">
-        <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
-      </div>
+      <!--<div class="modal-footer">-->
+      <!--  <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>-->
+      <!--</div>-->
     </div>
   </div>
 </div>

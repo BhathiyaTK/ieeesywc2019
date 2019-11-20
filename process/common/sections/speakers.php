@@ -1,4 +1,4 @@
-<!-- Speaker Section Start -->
+ Speaker Section Start -->
 <section id="ts-speakers" class="ts-speakers">
     <div class="container">
         <div class="row speaker_titles">
@@ -11,12 +11,12 @@
                 <div class="ts-speaker">
                     <div class="ts-speaker-image">
                         <img class="img-responsive" src="images/speakers/speaker1.jpg" alt="" />
-                        <ul class="social-links">
+                        <!-- <ul class="social-links">
                             <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                             <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                             <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                             <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                        </ul>
+                        </ul> -->
                     </div><!--Image end -->
                     <div class="ts-speaker-info">
                         <h3 class="ts-speaker-name"><a href="#speaker1" data-toggle="modal" data-target="#exampleModal1">Speaker Name</a></h3>
@@ -29,12 +29,12 @@
                 <div class="ts-speaker">
                     <div class="ts-speaker-image">
                         <img class="img-responsive" src="images/speakers/speaker2.jpg" alt="" />
-                        <ul class="social-links">
+                        <!-- <ul class="social-links">
                             <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                             <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                             <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                             <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                        </ul>
+                        </ul> -->
                     </div><!--Image end -->
                     <div class="ts-speaker-info">
                         <h3 class="ts-speaker-name"><a href="#speaker2"  data-toggle="modal" data-target="#exampleModal2">Speaker Name</a></h3>
@@ -47,12 +47,12 @@
                 <div class="ts-speaker transparent">
                     <div class="ts-speaker-image">
                         <img class="img-responsive" src="images/speakers/speaker3.jpg" alt="" />
-                        <ul class="social-links">
+                        <!-- <ul class="social-links">
                             <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                             <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                             <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                             <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                        </ul>
+                        </ul> -->
                     </div><!--Image end -->
                     <div class="ts-speaker-info">
                         <h3 class="ts-speaker-name"><a href="#speaker3" data-toggle="modal" data-target="#exampleModal3">Speaker Name</a></h3>
@@ -65,12 +65,12 @@
                 <div class="ts-speaker transparent">
                     <div class="ts-speaker-image">
                         <img class="img-responsive" src="images/speakers/speaker4.jpg" alt="" />
-                        <ul class="social-links">
+                        <!-- <ul class="social-links">
                             <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                             <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                             <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                             <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                        </ul>
+                        </ul> -->
                     </div><!--Image end -->
                     <div class="ts-speaker-info">
                         <h3 class="ts-speaker-name"><a href="#speaker4" data-toggle="modal" data-target="#exampleModal4">Speaker Name</a></h3>
@@ -85,12 +85,12 @@
                 <div class="ts-speaker transparent">
                     <div class="ts-speaker-image">
                         <img class="img-responsive" src="images/speakers/speaker5.jpg" alt="" />
-                        <ul class="social-links">
+                        <!-- <ul class="social-links">
                             <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                             <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                             <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                             <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                        </ul>
+                        </ul> -->
                     </div><!--Image end -->
                     <div class="ts-speaker-info">
                         <h3 class="ts-speaker-name"><a href="#speaker5" data-toggle="modal" data-target="#exampleModal5">Speaker Name</a></h3>
@@ -103,12 +103,12 @@
                 <div class="ts-speaker transparent">
                     <div class="ts-speaker-image">
                         <img class="img-responsive" src="images/speakers/speaker6.jpg" alt="" />
-                        <ul class="social-links">
+                        <!-- <ul class="social-links">
                             <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                             <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                             <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                             <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                        </ul>
+                        </ul> -->
                     </div><!--Image end -->
                     <div class="ts-speaker-info">
                         <h3 class="ts-speaker-name"><a href="#speaker6" data-toggle="modal" data-target="#exampleModal6">Speaker Name</a></h3>
@@ -121,12 +121,12 @@
                 <div class="ts-speaker transparent">
                     <div class="ts-speaker-image">
                         <img class="img-responsive" src="images/speakers/speaker7.jpg" alt="" />
-                        <ul class="social-links">
+                        <!-- <ul class="social-links">
                             <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                             <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                             <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                             <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                        </ul>
+                        </ul> -->
                     </div><!--Image end -->
                     <div class="ts-speaker-info">
                         <h3 class="ts-speaker-name"><a href="#speaker7" data-toggle="modal" data-target="#exampleModal7">Speaker Name</a></h3>
@@ -139,12 +139,12 @@
                 <div class="ts-speaker transparent">
                     <div class="ts-speaker-image">
                         <img class="img-responsive" src="images/speakers/speaker8.jpg" alt="" />
-                        <ul class="social-links">
+                        <!-- <ul class="social-links">
                             <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
                             <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                             <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                             <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-                        </ul>
+                        </ul> -->
                     </div><!--Image end -->
                     <div class="ts-speaker-info">
                         <h3 class="ts-speaker-name"><a href="#speaker8" data-toggle="modal" data-target="#exampleModal8">Speaker Name</a></h3>
@@ -156,4 +156,4 @@
         </div><!-- Content row 2 end -->
     </div><!--/ Container end -->
 </section><!-- Speakers end -->
-<!-- Speaker Section End-->
+<!-- Speaker Section End

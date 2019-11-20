@@ -39,7 +39,7 @@
           <li class="nav-item">
             <a class="nav-link nav-link-group" href="faqs">faqs</a>
           </li>
-          <li class="nav-item active">
+          <li class="nav-item">
             <a class="nav-link nav-link-group" href="contact">contact</a>
           </li>
           <li class="nav-item">

@@ -1,24 +1,22 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<!-- Basic Page Needs
-	================================================== -->
+	<!-- Basic Page Needs ================================================== -->
 	<meta charset="utf-8">
-	<!-- Mobile Specific Metas
-	================================================== -->
+	<!-- Mobile Specific Metas ================================================== -->
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0">
-
-	<meta name="keywords" content="IEEESLSYWC18, IEEE Student YP WIE Congress Sri Lanka, Sri Lanka IEEE Congress, IEEE SL Section, IEEE ORG, IEEE, ieee.org, ieee.lk, Sri Lanka Section, Sri Lanka" >
-  	<meta name="description" content="The IEEE Sri Lanka Section, for the 7th consecutive year, is getting ready to present the Sri Lankan IEEE enthusiasts with yet another memorable episode of the Sri Lanka Section Students / Young Professional / Women in Engineering Congress for 2018." >
+	
+	<meta name="keywords" content="IEEESLSYWC19, IEEE Student YP WIE Congress Sri Lanka, Sri Lanka IEEE Congress, IEEE SL Section, IEEE ORG, IEEE, ieee.org, ieee.lk, Sri Lanka Section, Sri Lanka" >
+  	<meta name="description" content="The IEEE Sri Lanka Section, for the 10th consecutive year, is getting ready to present the Sri Lankan IEEE enthusiasts with yet another memorable episode of the Sri Lanka Section Students / Young Professional / Women in Engineering Congress for 2019." >
 	
   	<meta name="msapplication-TileColor" content="#ffffff">
   	<meta name="msapplication-TileImage" content="">
   	<meta name="url" content="https://sywc.ieee.lk" />
-  	<meta name="owner" content="IEEE SLSYWC 2018" />
+  	<meta name="owner" content="IEEE SLSYWC 2019" />
   	<meta name="author" content="Bhathiya Kariyawasam - IEEE SLSYWC Dev Team" />
-  	<meta name="copyright" content="IEEE SLSYWC, 2018" />
-  	<meta name="creation_Date" content="12/08/2018" />
+  	<meta name="copyright" content="IEEE SLSYWC, 2019" />
+  	<meta name="creation_Date" content="30/09/2019" />
   	<meta name="robots" content="all" />
   	<meta name="robots" content="follow" />
   	<meta name="google-translate-customization" content="">

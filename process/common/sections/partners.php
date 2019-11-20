@@ -29,8 +29,8 @@
             </div>
         </div>
         <br><br>
-        <div id="left-customers-gradient-div"></div>
-        <section class="customer-logos">
+        <!-- <div id="left-customers-gradient-div"></div> -->
+        <section class="customer-logos slider">
             <div class="slide">
                 <div class="slide-content">
                     <img src="images/partners/sponsor.jpg">
@@ -86,7 +86,7 @@
                 </div>
             </div>
         </section>
-        <div id="right-customers-gradient-div"></div>
+        <!-- <div id="right-customers-gradient-div"></div> -->
         <br>
         <div class="row">
             <div class="general-btn-div">

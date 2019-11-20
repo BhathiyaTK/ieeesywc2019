@@ -15,9 +15,10 @@
               About <i class="fas fa-caret-down"></i>
             </a>
             <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="about#congress">About Congress</a>
-              <a class="dropdown-item" href="about#tracks">Tracks</a>
-              <a class="dropdown-item" href="about#venue">Venue</a>
+              <a class="dropdown-item" href="about.php#congress">About Congress</a>
+              <a class="dropdown-item" href="about.php#tracks">Tracks</a>
+              <a class="dropdown-item" href="about.php#venue">Venue</a>
+              <a class="dropdown-item" href="about.php#coc">Code of Conduct</a>
             </div>
           </li>
           <li class="nav-item">

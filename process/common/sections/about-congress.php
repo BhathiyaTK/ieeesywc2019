@@ -1,15 +1,33 @@
+<div id="congress"></div>
 <section id="main-container" class="main-container about-congress">
 	<div class="venue-container">
+		<div class="timeline-div">
+			<div class="timeline-div-content">
+				<div class="yr-text"><div class="year-div" id="y13"><a href="#"><img src="images/sywc2013.png"></a></div>2013<div class="vertical-line"></div></div>
+				<div class="straght-line"></div>
+				<div class="yr-text"><div class="year-div" id="y14"><a href="#"><img src="images/sywc2014.png"></a></div>2014<div class="vertical-line"></div></div>
+				<div class="straght-line"></div>
+				<div class="yr-text"><div class="year-div" id="y15"><a href="#"><img src="images/sywc2015.png"></a></div>2015<div class="vertical-line"></div></div>
+				<div class="straght-line"></div>
+				<div class="yr-text"><div class="year-div" id="y16"><a href="#"><img src="images/sywc2016.png"></a></div>2016<div class="vertical-line"></div></div>
+				<div class="straght-line"></div>
+				<div class="yr-text"><div class="year-div" id="y17"><a href="#"><img src="images/sywc2017.png"></a></div>2017<div class="vertical-line"></div></div>
+				<div class="straght-line"></div>
+				<div class="yr-text"><div class="year-div" id="y18"><a href="https://sywc.ieee.lk/archives/2018/"><img src="images/sywc2018.png"></a></div>2018<div class="vertical-line"></div></div>
+				<div class="straght-line"></div>
+				<div class="yr-text"><div class="year-div" id="y19"><a href="https://sywc.ieee.lk"><img src="images/sywc2019.png"></a></div>2019</div>
+			</div>
+		</div>
+		<hr><br><br>
 		<div class="row">
 			<div class="col-md-6 about_blockquote">
 				<h3 class="title-classic left">Why IEEE Congress in Sri Lanka?</h3>
         		<p class="sppb-cta-text">	
-        			The IEEE Sri Lanka Section, for the seventh consecutive year, is getting ready to present the Sri Lankan IEEE enthusiasts with yet another memorable episode of the Sri Lanka Section Student / Young Professional / Women in Engineering Congress for the year of 2018. 
+        			The IEEE Sri Lanka Section, for the seventh consecutive year, is getting ready to present the Sri Lankan IEEE enthusiasts with yet another great episode of the Sri Lanka Section Student / Young Professional / Women in Engineering Congress for the year of 2018. 
 					<br><br>
-					This is undoubtedly the  most awaited event of the IEEE Sri Lankan section where Student Branches,Young Professionals and Women in Engineering share their achievements to receive public endorsement and inspire others. 
+					This is undoubtedly the most awaited event of the IEEE Sri Lankan section where Student Branches, Young Professionals, and Women in Engineering share their achievements to receive the public endorsement and inspire others. 
 					<br><br>
-					Starting in 2012, it has been a long journey in bringing the congress to the stratum it now enjoys and the section expects to reap more and more with each year.
-
+					Starting in 2012, it has been a long journey in bringing the Congress to the stratum it now enjoys, and the section expects to reap more and more with each year. This year the Congress is themed on “Augmenting into a Digital Dimension” and to facilitate the theme, SLSYWC18 will span over three days a lot more experiences, memories, and inspiration.
 				</p>
 				<blockquote>This year the congress is themed on “Augmenting into a Digital Dimension” and to facilitate the theme, SLSYWC18 will span over three days lot more experiences memories and inspiration.</blockquote>
 			
